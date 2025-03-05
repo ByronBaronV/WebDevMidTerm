@@ -1,7 +1,7 @@
 <?php
     
     require_once "PHPFunctions/myFunctions.php";
-    echo "Hello World";
+    echo "Hello World 2";
     navigationMenu();
     pageHeader();
     
